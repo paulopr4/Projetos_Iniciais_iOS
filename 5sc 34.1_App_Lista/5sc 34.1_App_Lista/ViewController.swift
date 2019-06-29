@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  5 sc_31_App Persistencia
+//  5sc 34.1_App_Lista
 //
-//  Created by paulopr4 on 28/05/19.
+//  Created by paulopr4 on 11/06/19.
 //  Copyright © 2019 paulopr4. All rights reserved.
 //
 
@@ -12,11 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       
-       UserDefaults.standard
-        
-        
-        
+        // Do any additional setup after loading the view.
     }
 
 
